@@ -21,9 +21,9 @@
 
         // Face-selection parameters:
         // Only fragments whose (world) normal is near this direction will display the DoG.
-        _FaceDirection("Face Direction", Vector) = (0,0,1,0)
+        //_FaceDirection("Face Direction", Vector) = (0,0,1,0)
         // The dot product threshold (0 to 1) for accepting a face.
-        _FaceThreshold("Face Threshold", Range(0,1)) = 0.9
+        //_FaceThreshold("Face Threshold", Range(0,1)) = 0.9
     }
     SubShader
     {

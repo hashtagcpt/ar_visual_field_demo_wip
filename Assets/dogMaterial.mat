@@ -92,7 +92,7 @@ Material:
     - _CenterWeight: 1
     - _ClearCoatMask: 0
     - _ClearCoatSmoothness: 0
-    - _Contrast: 0.1
+    - _Contrast: 0.422
     - _Cull: 2
     - _Cutoff: 0
     - _DetailAlbedoMapScale: 1
@@ -101,7 +101,7 @@ Material:
     - _DstBlendAlpha: 0
     - _Envelope: 0.25
     - _EnvironmentReflections: 1
-    - _FaceThreshold: 0.9
+    - _FaceThreshold: 0.76
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
